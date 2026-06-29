@@ -1,0 +1,6 @@
+{
+  "name": "Fx-Math",
+  "description": "Premium AI-Powered Smart Mathematics Platform developed entirely by solo developer RapXCode, combining modern scientific calculator, interactive graph plotter, drawing math scanner, and intelligent multi-model AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
